@@ -1,0 +1,8 @@
+# This folder contains SQL Snippets for the following:
+- Find all tables that contain specific column
+- Find all tables with like name
+- Find Duplicates
+- Get Oracle Version
+- Query behind view
+- return records befor/after date
+- todays date
